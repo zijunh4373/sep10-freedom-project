@@ -20,10 +20,17 @@ I used HTML, CSS, Bootstrap, and Github. I also chose to independently study **X
 
 ## Implications
 ##### PROS
-* 
+* Technology such as goal-line technology can help referees make more accurate decisions.
+* Video analysis and performance-tracking systems can help coaches understand players' strengths and weaknesses.
+* Wearable technology can help teams monitor players' physical performance and manage training.
+* New technologies can make soccer more interesting for fans by providing statistics, replays, and other information. 
  
 ##### CONS
-*
+* Technologies such as VAR can interrupt the flow of a match while referees review decisions.
+* Advanced technology can be expensive, making it harder for smaller clubs and leagues to afford.
+* Depending too much on technology can reduce the role of human judgment in certain decisions.
+* Collecting player performance and health-related data can raise concerns about privacy.
+
 
 
 
